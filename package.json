@@ -22,17 +22,6 @@
     "prettier": "node ./scripts/prettier.js write-changed",
     "prettier-all": "node ./scripts/prettier.js write"
   },
-  "homepage": "https://ui-router.github.io/react",
-  "contributors": [
-    {
-      "name": "Marco Botto",
-      "web": "https://github.com/elboman"
-    },
-    {
-      "name": "Chris Thielen",
-      "web": "https://github.com/christopherthielen"
-    }
-  ],
   "author": "",
   "license": "MIT",
   "repository": {
