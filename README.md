@@ -18,14 +18,6 @@ Routing frameworks for SPAs update the browser's URL as the user navigates throu
 
 UI-Router applications are modeled as a hierarchical tree of states. UI-Router provides a [*state machine*](https://en.wikipedia.org/wiki/Finite-state_machine) to manage the transitions between those application states in a transaction-like manner.
 
-## Docs & Resources
-
-- [Tutorials and Docs](/docs)
-- [Examples](/examples)
-- [UI-Router website](https://ui-router.github.io/)
-- [Changelog](/CHANGELOG.md)
-- [Upgrading from `0.3.x` to `0.4.x`](/docs/upgrading-from-0.3.x-to-0.4.x.md)
-
 ## Getting started
 The UI-Router package is distributed using [npm](https://www.npmjs.com/), the node package manager.
 
